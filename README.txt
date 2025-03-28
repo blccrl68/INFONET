@@ -1,9 +1,9 @@
-Here is the resume of are we using in pur project.
-with the description of the filesystem used for the project
+Here is the summary about what are we using in our project filesystem structure .
+with the description beside of any item used
 
 /
 |
-----EU Tax Advisor Self Learn Program.pdf - main document, of the project as given from INFONET
+----EU Tax Advisor Self Learn Program.pdf - main document of the project as given from INFONET
 |
 ----files dir. - the files we will upload for the project on github
 	|
@@ -15,6 +15,6 @@ with the description of the filesystem used for the project
 |
 ----projects dir. - every project final relevant file is saved here 
 	
-	|(there is a dir. for heach specific project final files (SW, doc,and so on) produced here)
+	|(there is a dir. for each specific project final files, like SW, doc,and so on, produced here)
 |
 ----tasks dir. -each activity/sub. project not necessary for the global final result of project, but requested or also usefull 
