@@ -1,2 +1,2 @@
 # INFONET
- the repositorry for the INFONET internship
+ the repository for the INFONET internship
