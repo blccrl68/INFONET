@@ -1,0 +1,21 @@
+WEEK 1: Research & Env. Setup
+
+
+INSTALLATION
+MONGODB:
+https://www.mongodb.com/try/download/community
+
+FASTAPI:
+https://fastapi.tiangolo.com/#installation
+HOW TO RUN UVICONRN FASTAPI Server ON WINDOWS, USING .PY FILE:
+https://stackoverflow.com/questions/73908734/how-to-run-uvicorn-fastapi-server-as-a-module-from-another-python-file
+
+LANGCHAIN:
+https://python.langchain.com/docs/introduction/
+LNG_CHN BUILD CHATBOT:
+https://python.langchain.com/docs/tutorials/chatbot/
+
+INTEGRATION OF OPENAI API
+https://platform.openai.com/docs/quickstart?api-mode=chat
+how to use the key
+https://platform.openai.com/docs/libraries?desktop-os=windows&language=python
