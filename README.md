@@ -4,9 +4,11 @@ the repository for the INFONET internship
 AI Research Internship – Overview & Program
 
 Program Overview
-The AI Research Internship is designed for individuals eager to apply AI to real-world business challenges. Participants will work on developing an AI-driven solution from end to end—starting from problem understanding, data exploration, model development, and cloud deployment.
+The AI Research Internship is designed for individuals eager to apply AI to real-world business challenges. 
+Participants will work on developing an AI-driven solution from end to end—starting from problem understanding, data exploration, model development, and cloud deployment.
 This is a highly hands-on program where interns will receive guidance but are expected to take ownership of their research, experimentation, and implementation.
 To ensure participants are set up for success, we will conduct a calibration process at the beginning of the internship. This will help us assess their experience and skill level, ensuring they are equipped to tackle the challenges presented.
+
 Internship Objectives
 The primary goal is to develop a real AI solution that addresses one of the selected business challenges.
 Interns will gain experience in:
